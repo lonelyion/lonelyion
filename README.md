@@ -1,11 +1,12 @@
 # 离子 / Lonely_ion
 
-Hi, I'm Ion. Major in Mechatronic Engineering at SHU.
+Hi, I'm Ion. Major in Computer Science at SHU.
 
 + 🧐 Interested in full stack. Recent focus on frontend.
 + 🌱 I’m currently learning JavaScript/TypeScript.
 + 😀 I like Chinese and Japanese cultures, and falling with VTubers now.
-+ 🔭 Currently working on a fan-sub group.
++ 🔭 I'm also working as leader in a VTuber fan-sub group.
++ ⚡ Fun fact: I changed my major from Mechatronic Engineering at the beginning of Junior Year.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
