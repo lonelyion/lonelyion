@@ -4,8 +4,8 @@ Hi, I'm Ion. Major in Computer Science at SHU.
 
 + 🧐 Interested in full stack. Recent focus on frontend.
 + 🌱 I’m currently learning JavaScript/TypeScript.
-+ 😀 I like Chinese and Japanese cultures, and falling with VTubers now.
-+ 🔭 I'm also working as leader in a VTuber fan-sub group.
++ 😀 Also interested in international relations.
++ 🔭 I'm also working as leader in a fan-sub group.
 + ⚡ Fun fact: I changed my major from Mechatronic Engineering at the beginning of Junior Year.
 
 ### :zap: Recent Activity
