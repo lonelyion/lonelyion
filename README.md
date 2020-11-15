@@ -16,6 +16,8 @@ Hi, I'm Ion.
 5. 🗣 Commented on [#24](https://github.com/voosc/fubuki-button/issues/24) in [voosc/fubuki-button](https://github.com/voosc/fubuki-button)
 <!--END_SECTION:activity-->
 
-### :zap: Github Stats
+### :zap: More About Me
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=lonelyion)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=lonelyion&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lonelyion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
