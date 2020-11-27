@@ -18,6 +18,5 @@ Hi, I'm Ion.
 
 ### :zap: More About Me
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=lonelyion&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=lonelyion&show_icons=true&include_all_commits=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lonelyion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
