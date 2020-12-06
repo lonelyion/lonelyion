@@ -2,8 +2,8 @@
 
 Hi, I'm Ion.
 
-+ 🧐 Interested in full stack. Recent focus on frontend.
-+ 🌱 I’m currently learning JavaScript/TypeScript.
++ 🧐 Interested in full stack. Recent focus on Embeded Dev.
++ 🌱 I’m currently learning Rust.
 + 😀 Also interested in international relations.
 + 🔭 I'm also working as leader in a fan-sub group.
 
