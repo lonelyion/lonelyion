@@ -6,6 +6,7 @@ Hi, I'm Ion.
 + 🌱 I’m currently learning Rust but very slowly.
 + 😀 Also interested in international relations and stocks.
 + 🔭 I'm also a member of serval fansub groups working with Aegisub.
++ 🦊 My favorite animals are fox and cat
 
 ### :key: Identification
 
