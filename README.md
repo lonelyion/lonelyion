@@ -3,9 +3,9 @@
 Hi, I'm Ion.
 
 + 🧐 Interested in full stack. Recent focus on Embeded Dev.
-+ 🌱 I’m currently learning Rust.
-+ 😀 Also interested in international relations.
-+ 🔭 I'm also working as leader in a fan-sub group.
++ 🌱 I’m currently learning Rust but very slowly.
++ 😀 Also interested in international relations and stocks.
++ 🔭 I'm also a member of serval fansub groups working with Aegisub.
 
 ### :key: Identification
 
