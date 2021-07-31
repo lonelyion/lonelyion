@@ -2,20 +2,13 @@
 
 Hi, I'm Ion.
 
-+ 🧐 Interested in full stack. Recent focus on Embeded Dev.
-+ 🌱 I’m currently learning Rust but very slowly.
-+ 😀 Also interested in international relations and stocks.
-+ 🔭 I'm also a member of serval fansub groups working with Aegisub.
-+ 🦊 My favorite animals are fox and cat.
+<a href="https://github.com/wuhan005?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lonelyion&show_icons=true&title_color=A39EBC&icon_color=A39EBC&text_color=000&bg_color=ffffff&hide_border=true" width="50%" />
+</a>
 
-### :key: Identification
-
-I have my GPG public key hosted on [Keybase - Lonely_ion](https://keybase.io/lonely_ion). You can pull and import my GPG public key with:
-```
-curl https://keybase.io/lonely_ion/pgp_keys.asc | gpg --import
-```
-
-### :zap: More About Me
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=lonelyion&show_icons=true&include_all_commits=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lonelyion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
++ 💻 Focus on Embeded Development.
++ 🎨 Interested in Full-stack and Multimedia.
++ 🕊 <s>A [DD](https://zh.moegirl.org.cn/index.php?title=DD%E5%85%9A) following a lot of VTubers/VUPs.</s>
++ 🏡 Blog at [blog.lonelyion.com](https://blog.lonelyion.com)
++ 📫 [Ask me something?](https://box.lonelyion.com/_/lonelyion)
++ 🔑 GPG Key [`057C486666C93481`](https://keybase.io/lonely_ion/pgp_keys.asc)
