@@ -1,6 +1,6 @@
 # 离子 / Lonely_ion
 
-Hi, I'm Ion.
+Hi, I'm Ion. This is my Code Name.
 
 <a href="https://github.com/wuhan005?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lonelyion&show_icons=true&title_color=A39EBC&icon_color=A39EBC&text_color=000&bg_color=ffffff&hide_border=true" width="50%" />
