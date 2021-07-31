@@ -1,6 +1,6 @@
 # 离子 / Lonely_ion
 
-<a href="https://github.com/wuhan005?tab=repositories">
+<a href="https://github.com/lonelyion?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lonelyion&show_icons=true&title_color=A39EBC&icon_color=A39EBC&text_color=000&bg_color=ffffff&hide_border=true" width="50%" />
 </a>
 
