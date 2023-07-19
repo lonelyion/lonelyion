@@ -2,7 +2,7 @@
 
 "ion" is my code/nick name.
 
-+ 💻 Focus on Embedded Development. Currently learning Go.
++ 💻 Focus on Embedded Development. Currently learning electric guitar🎸.
 + 🎨 Interested in Full-stack and Multimedia.
 + 🕊 <s>A [DD](https://zh.moegirl.org.cn/index.php?title=DD%E5%85%9A) following a lot of VTubers/VUPs.</s>
 + 🏡 An otaku. Also a VUP at Bilibili.
