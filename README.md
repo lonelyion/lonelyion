@@ -2,9 +2,10 @@
 
 "ion" is my code/nick name.
 
-+ 💻 Focus on Embedded Development. Currently learning electric guitar🎸.
-+ 🎨 Interested in Full-stack and Multimedia.
-+ 🕊 <s>A [DD](https://zh.moegirl.org.cn/index.php?title=DD%E5%85%9A) following a lot of VTubers/VUPs.</s>
-+ 🏡 An otaku. Also a VUP at Bilibili.
-+ 📫 [Ask me something?](https://candy.vupgo.com/7564991)
++ 💻 An embeded (also full-stack) software developer in company.
++ 🧩 Mostly use C# / Python / JavaScript.
++ 🎸 Learning electric guitar and other music related stuff.
++ 🎮 I play BanG Dream GBP / Project Sekai Colorful Stage / War Thunder / Arknights, etc.
++ 🏡 An otaku. Also a content creator at Bilibili.
++ 📫 [Ask me something?](mailto:lonelyion@outlook.com)
 + 🔑 GPG Key [`057C486666C93481`](https://keybase.io/lonely_ion/pgp_keys.asc)
